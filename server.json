@@ -6,7 +6,7 @@
   "websiteUrl": "https://discovery.modernai.io/methodology",
   "version": "1.1.0",
   "repository": {
-    "url": "https://github.com/modern-ai-inc/w0-mcp-server",
+    "url": "https://github.com/modern-ai-inc/ai-recommendation-rate-mcp",
     "source": "github"
   },
   "remotes": [
