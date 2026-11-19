@@ -2,7 +2,7 @@
 
 Ask your AI assistant how often AI search picks a brand **first**.
 
-This [Model Context Protocol](https://modelcontextprotocol.io) server gives any MCP client (Claude Code, Claude Desktop, Cursor, VS Code, or your own agent) free, single-brand access to **Recommendation Rate** data from [Modern Discovery](https://modernai.io) by Modern AI.
+This [Model Context Protocol](https://modelcontextprotocol.io) server gives any MCP client (Claude Code, Claude Desktop, Cursor, VS Code, or your own agent) free, single-brand access to **Recommendation Rate** data from [Modern Discovery™](https://modernai.io) by Modern AI.
 
 - **Live endpoint:** `https://w0-mcp-server.modernai.workers.dev`
 - **Transport:** MCP Streamable HTTP (JSON-RPC 2.0)
@@ -126,4 +126,4 @@ The server keeps anonymous usage counts. For each initialize, tools/list, tools/
 
 ## License
 
-MIT. See `LICENSE`.
+MIT. See `LICENSE` and `NOTICE`. The license covers the code, not Modern AI names or logos; see `TRADEMARKS.md`. Security reports: see `SECURITY.md`.
